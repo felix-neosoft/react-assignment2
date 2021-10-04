@@ -1,38 +1,64 @@
-.App {
+*{
+  margin: 0;
+  padding:0;
+  background-color: #000000;
+}
+
+.heading-h{
+  text-align: center;
+  color: #F0A500;
+}
+
+hr{
+  border: none;
+  border-top: 20px dotted #F0A500;
+  width: 200px;
+  margin: 50px auto;
+  opacity: 0.5;
+  color: #000000;
+  
+}
+/* List Component  */
+
+
+.table-l{
+  border-radius: 300px;
+}
+
+.table-list tr{
+  color:#F0A500;
+  background-color: #334756;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+/* Form Component  */
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.form-label, .form-check-label{
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+form{
+  border: 2px solid #F0A500;
+  border-radius: 30px;
+  padding: 10px;
+}
+form button{
+  width: 80%;
+  margin: 50px 70px;
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Product Component  */
+
+#Cart_display{
+  display: none;
+}
+
+.table-cart {
+  color: #F0A500;
+  margin-top: 50px;
+  text-align: center;
+}
+.table-cart thead tr, tfoot tr{
+  background-color: #334756;
 }

@@ -1,0 +1,44 @@
+.App h1{
+    text-align: center;
+    margin-top: 30px;
+    font-style: italic;
+}
+.card-boxing img{
+    width: 305px;
+    height: 200px;
+}
+
+.card-texting h5{
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: white;
+    color: black;
+}
+.card-texting p{
+    padding: 3px 10px;
+}
+
+.card-texting button{
+    border-radius: 10px;
+    padding: 3px 10px;
+}
+.card-texting{
+    background-color: white;
+    color: white;
+}
+
+.nav-cart span{
+    color: #F0A500;
+}
+.nav-cart sup{
+    background-color: #F0A500;
+    color: black;
+    padding: 2px 7px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+#cart-btn:hover{
+    background-color: #082032;
+    color: #F0A500;
+
+}

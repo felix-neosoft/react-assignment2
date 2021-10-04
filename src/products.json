@@ -1,0 +1,25 @@
+{
+    "products":[
+    {"id":1,"pname":"Black Forest","price":800,"quantity":4,"images":"images/cake1.jpg"},
+    {"id":2,"pname":"Orange Cake","price":500,"quantity":8,"images":"images/cake2.jpg"},
+    {"id":3,"pname":"Chocalate+Strawberry Cake","price":750,"quantity":6,"images":"images/cake3.jpg"},
+    {"id":4,"pname":"Gems Cake","price":700,"quantity":5,"images":"images/cake4.jpg"},
+    {"id":5,"pname":"Chocalate Cake","price":600,"quantity":9,"images":"images/cake5.jpg"},
+    {"id":6,"pname":"Chocalate Nuts Cake","price":1200,"quantity":3,"images":"images/cake6.jpg"},
+    {"id":7,"pname":"White Forest","price":750,"quantity":8,"images":"images/cake7.jpg"},
+    {"id":8,"pname":"White Rose Cake","price":950,"quantity":4,"images":"images/cake8.jpg"},
+    {"id":9,"pname":"Chocalate Cherry Cake","price":900,"quantity":6,"images":"images/cake9.jpg"},
+    {"id":10,"pname":"ButterScotch Cake","price":950,"quantity":8,"images":"images/cake10.jpg"},
+    {"id":11,"pname":"Stawberry Cake","price":750,"quantity":8,"images":"images/cake11.jpg"},
+    {"id":12,"pname":"Stawbeery Fruit Cake","price":950,"quantity":7,"images":"images/cake12.jpg"},
+    {"id":13,"pname":"Chocalate Butter Cake","price":650,"quantity":8,"images":"images/cake13.jpg"},
+    {"id":14,"pname":"White Frost Rose Cake","price":750,"quantity":6,"images":"images/cake14.jpg"},
+    {"id":15,"pname":"cadbery Cake","price":1450,"quantity":5,"images":"images/cake15.jpg"},
+    {"id":16,"pname":"Red Velvet Cake","price":1050,"quantity":8,"images":"images/cake16.jpg"},
+    {"id":17,"pname":"Sweet Cake","price":450,"quantity":10,"images":"images/cake17.jpg"},
+    {"id":18,"pname":"Fruit Cake","price":850,"quantity":7,"images":"images/cake18.jpg"},
+    {"id":19,"pname":"Chocalate Roll Cake","price":950,"quantity":9,"images":"images/cake19.jpg"},
+    {"id":20,"pname":"Buleberry Cake","price":750,"quantity":4,"images":"images/cake20.jpg"}
+    ]
+
+}
